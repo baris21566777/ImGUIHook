@@ -15,7 +15,7 @@ Universal Directx9 Hook Project for all directx9 applications with ImGui and Inp
 
 ## Built With
 
-* [ImGui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies 
+* [ImGui v1.77](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies 
 
 ## Authors
 
